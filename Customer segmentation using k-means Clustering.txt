@@ -1,0 +1,8 @@
+work Flow -
+
+1. Data Collection
+2. Data preprocessing
+3. data analysis to know which features are important
+4. we have to obtain no of clusters needed
+5. feed thw data to k means clustering.
+6. visualizing data
